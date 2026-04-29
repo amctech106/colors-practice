@@ -1,0 +1,119 @@
+body {
+  background-color: #bdbdbd;
+}
+
+div {
+  margin: 40px 30px 30px 30px;
+}
+
+h1 {
+  background-color: #e2e2e2;
+  padding: 20px;
+}
+
+.p1 {
+  background-color: #4080ca;
+  color: white;
+  padding: 15px;
+    margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p2 {
+  background-color: #4792d4;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p3 {
+  background-color: #4AA0DD;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p4 {
+  background-color: #57AAE2;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p5 {
+  background-color: #6DBBEB;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p6 {
+  background-color: #7FC6EE;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p7 {
+  background-color: #95CEF1;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p8 {
+  background-color: #3DBB7C;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p9 {
+  background-color: #F79CD2;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p10 {
+  background-color: #F483C3;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p11 {
+  background-color: #F46FB7;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p12 {
+  background-color: #F156AA;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p13 {
+  background-color: #F24499;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p14 {
+  background-color: #F03489;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.p15 {
+  background-color: #F01B78;
+  color: white;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
